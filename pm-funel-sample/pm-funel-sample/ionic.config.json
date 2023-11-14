@@ -1,0 +1,7 @@
+{
+  "name": "pm-funel-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
