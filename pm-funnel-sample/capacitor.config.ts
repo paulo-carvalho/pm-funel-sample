@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'pm-funel-sample',
+  appName: 'pm-funnel-sample',
   webDir: 'www',
   server: {
     androidScheme: 'https'
